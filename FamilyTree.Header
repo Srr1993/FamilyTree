@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+   <header>
+       <h1>MyStory</h1>
+       <div class="topnav"></div>
+       <a href="FamilyTree-pg.0.html" target="_parent">Home</a>
+       <a href="FamilyTree-pg.1.html" target="_parent">LogIn/SignUp</a>
+       <a href="FamilyTree-pg.2.html" target="_parent">Profile</a>
+       <a href="FamilyTree-pg.3.html" target="_parent">MyStories</a>
+       <a href=".html" target="_parent">LogOut</a>
+       </div>
+   </header>
+</body>
+
+</html>
