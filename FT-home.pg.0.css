@@ -1,0 +1,45 @@
+body {
+    background: black;
+}
+
+h1 {
+    margin-left: 500px;
+    color: plum;
+    font-size: 60px;
+    font-family: cursive;
+}
+    .time2 {
+        width: 50%;
+        
+    }
+
+.text {
+    
+    font-size: 30px;
+    overflow-wrap: break-word;
+    margin: 45px;
+    font-family: cursive;
+    color: aqua;
+}
+#image {
+width: 500px;
+margin-left: 700px;
+height: 50px;
+float: left;
+}
+
+#button {
+   
+}
+
+button {
+width: 100px;
+height: 30px;
+background: coral;
+}
+
+img {
+    width: 300px;
+    height: 500px;
+    margin: 0px;
+}

@@ -1,0 +1,24 @@
+body {
+    background-image: url("media/bg pg 1.jpg"); 
+    
+}
+
+
+div{
+    margin-left: 500px;
+    margin-right: 0px
+}
+header{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.password {
+    word-break: break-all;
+}
+
+
+
+
+
